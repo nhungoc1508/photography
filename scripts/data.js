@@ -460,6 +460,22 @@ const photos = [
         "score": 10
     },
     {
+        "url": "images/milan_2025_0.jpg",
+        "city": "Milan",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "The interior arcade of the Galleria Vittorio Emanuele II, captured on a busy Christmas Eve afternoon.",
+        "score": 9
+    },
+    {
+        "url": "images/milan_2025_1.jpg",
+        "city": "Milan",
+        "country": "Italy",
+        "year": 2025,
+        "caption": "The façade of the Duomo di Milano (Milan Cathedral) on a sunny morning, right after Christmas.",
+        "score": 9
+    },
+    {
         "url": "images/marseille_2025_1.JPG",
         "city": "Marseille",
         "country": "France",
@@ -618,6 +634,22 @@ const photos = [
         "year": 2024,
         "caption": "The peak of the pyramid at the Louvre, captured while I was sidestepping the extremely long queue of visitors waiting to get inside the museum.",
         "score": 8
+    },
+    {
+        "url": "images/pontresina_2025_0.png",
+        "city": "Pontresina",
+        "country": "Switzerland",
+        "year": 2025,
+        "caption": "The snow-blanketed landscape of Pontresina captured from the Bernina Express.",
+        "score": 8
+    },
+    {
+        "url": "images/pontresina_2025_1.jpg",
+        "city": "Pontresina",
+        "country": "Switzerland",
+        "year": 2025,
+        "caption": "Snow-capped peaks of Switzerland captured late in the afternoon from the Bernina Express.",
+        "score": 9
     },
     {
         "url": "images/porto_2025_0.jpg",
