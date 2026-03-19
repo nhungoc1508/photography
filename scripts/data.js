@@ -596,6 +596,30 @@ const photos = [
         "score": 8
     },
     {
+        "url": "images/padova_2026_0.jpg",
+        "city": "Padova",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "Plum blossoms in Padova.",
+        "score": 8
+    },
+    {
+        "url": "images/padova_2026_1.JPG",
+        "city": "Padova",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "Pear blossoms in Padova.",
+        "score": 8
+    },
+    {
+        "url": "images/padova_2026_2.JPG",
+        "city": "Padova",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "Plum blossoms in Padova.",
+        "score": 8
+    },
+    {
         "url": "images/paris_2024_0.JPG",
         "city": "Paris",
         "country": "France",
