@@ -292,6 +292,38 @@ const photos = [
         "score": 9
     },
     {
+        "url": "images/florence_2026_0.JPG",
+        "city": "Florence",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "The dome of the Cathedral of Santa Maria del Fiore on a sunny and very windy day.",
+        "score": 9
+    },
+    {
+        "url": "images/florence_2026_1.JPG",
+        "city": "Florence",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "The statue of Hercules and Cacus by Baccio Bandinelli at the entrance of the Palazzo Vecchio.",
+        "score": 8
+    },
+    {
+        "url": "images/florence_2026_2.JPG",
+        "city": "Florence",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "The interior of the Uffizi Galleries right next to the Piazza della Signoria.",
+        "score": 8
+    },
+    {
+        "url": "images/florence_2026_3.JPG",
+        "city": "Florence",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "The dome of the Cathedral of Santa Maria del Fiore viewed from afar, from the Giardino delle Rose.",
+        "score": 9
+    },
+    {
         "url": "images/ghent_2024_0.jpg",
         "city": "Ghent",
         "country": "Belgium",
@@ -660,6 +692,14 @@ const photos = [
         "score": 8
     },
     {
+        "url": "images/pisa_2026_0.JPG",
+        "city": "Pisa",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "The Leaning Tower of Pisa on a sunny and very crowded day.",
+        "score": 8
+    },
+    {
         "url": "images/pontresina_2025_0.png",
         "city": "Pontresina",
         "country": "Switzerland",
@@ -732,6 +772,30 @@ const photos = [
         "score": 5
     },
     {
+        "url": "images/rome_2026_0.JPG",
+        "city": "Rome",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "The magnificent view from a distance of the Colosseum on a sunny day.",
+        "score": 8
+    },
+    {
+        "url": "images/rome_2026_1.JPG",
+        "city": "Rome",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "Trevi Fountain captured as I made my way through a sea of people.",
+        "score": 9
+    },
+    {
+        "url": "images/rome_2026_2.JPG",
+        "city": "Rome",
+        "country": "Italy",
+        "year": 2026,
+        "caption": "The ceiling of the Chiesa di Sant'Ignazio di Loyola. The painting made me feel like I was looking through the rooftop and directly into the sky.",
+        "score": 9
+    },
+    {
         "url": "images/thailand_2019_0.JPG",
         "city": "Bangkok",
         "country": "Thailand",
@@ -762,6 +826,22 @@ const photos = [
         "year": 2025,
         "caption": "A quick snap of Toulouse captured while I was waiting for the bus.",
         "score": 8
+    },
+    {
+        "url": "images/vatican_2026_0.JPG",
+        "city": "Vatican City",
+        "country": "Vatican",
+        "year": 2026,
+        "caption": "The main facade and dome of the Basilica di San Pietro (St. Peter's Basilica), with the Vatican Obelisk in the foreground.",
+        "score": 8
+    },
+    {
+        "url": "images/vatican_2026_1.JPG",
+        "city": "Vatican City",
+        "country": "Vatican",
+        "year": 2026,
+        "caption": "A corner of the colossal Tuscan colonnades framing the Piazza San Pietro (St. Peter's Square).",
+        "score": 9
     },
     {
         "url": "images/venice_2025_0.jpg",

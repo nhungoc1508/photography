@@ -20,14 +20,14 @@ function comparePhotos(b, a) {
     if (a['score'] != b['score']) {
         return a['score'] - b['score'];
     }
+    if (a['year'] != b['year']) {
+        return a['year'] - b['year'];
+    }
     if (a['country'] != b['country']) {
         return a['country'].localeCompare(b['country']);
     }
     if (a['city'] != b['city']) {
         return b['city'].localeCompare(a['city']);
-    }
-    if (a['year'] != b['year']) {
-        return a['year'] - b['year'];
     }
     return b['url'].localeCompare(a['url']);
 }
